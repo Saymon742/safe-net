@@ -87,3 +87,4 @@ build/
 public/
 .cache/
 node_modules/
+.gitignore
